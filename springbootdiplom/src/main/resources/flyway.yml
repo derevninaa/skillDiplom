@@ -1,0 +1,5 @@
+flyway.user: root
+flyway.password: testtest
+flyway.schemas: blogdb
+flyway.url: jdbc:mysql://localhost:3306/blog?serverTimezone=Europe/Moscow
+flyway.locations: _filesystem:db/migration
